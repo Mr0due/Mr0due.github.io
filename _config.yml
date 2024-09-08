@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mr0due(李迦勒)的个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "logo.png"
   name             : "李迦勒"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he"  
   bio              : "FZU大三数据科学与大数据技术专业学子"
   location         : "福建·福州"
   employer         : "FuZhou University"
