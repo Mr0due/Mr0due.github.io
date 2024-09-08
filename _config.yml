@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.png"
   name             : "李迦勒"
   pronouns         : # example: "she/her"  
   bio              : "FZU大三数据科学与大数据技术专业学子"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "福建·福州"
+  employer         : "FuZhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2924548919@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
